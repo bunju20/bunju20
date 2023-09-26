@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi!%20I'm%20bunju!&fontAlign=28&fontAlignY=60&color=0:0000FF,100:00FFFF&waveSpeed=0.2&fontColor=ffffff&fontSize=60)
-<br/><br/>
+<img data-src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:045FB4,100:CEECF5&amp;waveSpeed=0.9&amp;fontColor=ffffff&amp;fontSize=60" alt="animated image" class=" lazyloaded" data-proofer-ignore="" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:045FB4,100:CEECF5&amp;waveSpeed=0.9&amp;fontColor=ffffff&amp;fontSize=60">
 
 **✔️ Blog**
 <br/>
